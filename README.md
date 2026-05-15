@@ -23,6 +23,7 @@ The repository contains:
 Current features:
 
 - Basic app structure
+- Register feature
 
 ---
 

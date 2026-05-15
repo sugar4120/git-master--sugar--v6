@@ -1,0 +1,10 @@
+Register Feature
+
+Fields:
+- Full name
+- Email
+- Password
+- Confirm password
+
+Actions:
+- Create account
