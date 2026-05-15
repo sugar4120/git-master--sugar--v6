@@ -21,10 +21,9 @@ The repository contains:
 ## Features
 
 Current features:
-
 - Basic app structure
+- Login feature
 
----
 
 ## Status
 
