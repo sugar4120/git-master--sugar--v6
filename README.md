@@ -22,7 +22,8 @@ The repository contains:
 
 Current features:
 
-- Basic app structure
+- Basic application structure
+- Core project setup
 
 ---
 
