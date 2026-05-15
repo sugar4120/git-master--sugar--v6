@@ -1,9 +1,0 @@
-Login Feature
-
-Fields:
-- Username
-- Password
-
-Actions:
-- Login
-- Forgot password

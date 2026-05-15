@@ -16,18 +16,13 @@ The repository contains:
 - docs folder
 - src folder
 
----
-
-## Features
+---## Features
 
 Current features:
 
 - Basic application structure
 - Core project setup
-- Login feature
 - Register feature
-
----
 
 ## Status
 
